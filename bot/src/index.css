@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.rsc-container {
+  background: rgba(255, 255, 255, 0.699) !important;
+}
+
+.rsc-text-input-container {
+  opacity: 0.5;
+}
